@@ -1,0 +1,1 @@
+simplifiedscript my_program.ss
