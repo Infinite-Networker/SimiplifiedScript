@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="SimplifiedScript Logo" width="300"/>
+</p>
+
 # SimplifiedScript 🚀
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
